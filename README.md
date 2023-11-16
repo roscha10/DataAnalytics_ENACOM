@@ -119,8 +119,8 @@ En 2014, la penetración de Internet fijo representaba el 35%, y para el año 20
 Este marcado incremento no solo es evidente al comparar cifras a lo largo del período, sino que también se destaca dentro del mismo año, con variaciones significativas en distintos trimestres.
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201_2.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201_2.jpg" >
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201.jpg" >
   </a>
 </p>
 
@@ -228,8 +228,8 @@ especialmente a través de tecnologías como la Fibra Óptica, demuestra un camb
 El siguiente gráfico nos revela patrones significativos en los ingresos derivados de los servicios de Internet fijo, TV por suscripción, TV satelital y telefonía fija a lo largo del periodo estudiado.
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%206.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%206.jpg" >
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201%20(2).jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201%20(2).jpg" >
   </a>
 </p>
 Hasta el año 2021, la telefonía fija experimentó un crecimiento notable, indicando posiblemente una demanda continua de servicios de comunicación tradicionales. Este fenómeno podría estar vinculado 
