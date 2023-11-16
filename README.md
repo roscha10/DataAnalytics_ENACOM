@@ -242,15 +242,16 @@ seguidos por TV por suscripción.
 
 ## Fase 4: Desarrollo de un Dashboard Interactivo
 
-En esta fase culminante, hemos materializado un dashboard interactivo que no solo cumple con los requisitos esenciales sino que también incorpora desafíos adicionales para elevar nuestro proyecto a un nivel Junior Advanced. Este último acto es una demostración de habilidades avanzadas y un enfoque integral para lograr un portfolio completo y competitivo.
+En esta fase culminante, hemos materializado un dashboard interactivo que no solo cumple con los requisitos esenciales sino que también incorpora desafíos adicionales para elevar nuestro proyecto a un nivel Junior Advanced. Este último acto es un enfoque integral para lograr un portfolio completo y competitivo.
 
-Nuestro proceso comenzó con la creación de un Jupyter Notebook para organizar la data que utilizariamos de manera óptima, incluyendo la asignación de identificadores a las provincias. Posteriormente, establecimos una base de datos en un motor SQL, donde ingresamos los datasets procesado para utilizarlos como fuente de datos en nuestro dashboard en Power BI. Ejecutamos scripts de Python directamente en MySQL Workbench y finalmente creamos un dashboard interactivo diseñado para explorar opciones en los datasets y en donde definimos lo KPIs: 
+Nuestro proceso comenzó con la creación de un Jupyter Notebook para organizar la data que utilizariamos de manera óptima, incluyendo la asignación de identificadores a las provincias(detalle:[Notebook](Preparacion_SQL.ipynb)).  Posteriormente, establecimos una base de datos en un motor SQL, donde ingresamos los datasets procesado para utilizarlos como fuente de datos en nuestro dashboard en Power BI. Ejecutamos scripts de Python directamente en MySQL Workbench(detalle:[SQL](SQL/ENACOM.sql))  y finalmente creamos un dashboard interactivo diseñado para explorar opciones en los datasets y en donde definimos lo KPIs: 
 
   - Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. 
   - Acceso a Internet Fijo.
   - Tecnologías.
   - Ingresos por la operación del servicio de telecomunicaciones.
-    
+
+Dataset que utilizamos en **POWER BI** : [Data_SQL](datasets_SQL)
 **Tecnologías clave:** Power BI, Lenguaje DAX, Integración de datos a Power BI mediante Python
 
 Esta estructura por fases nos proporciona una visión más clara y detallada del proceso, permitiendo un seguimiento ordenado y eficiente del proyecto.
