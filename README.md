@@ -119,7 +119,9 @@ En 2014, la penetración de Internet fijo representaba el 35%, y para el año 20
 Este marcado incremento no solo es evidente al comparar cifras a lo largo del período, sino que también se destaca dentro del mismo año, con variaciones significativas en distintos trimestres.
 
 <p align="center">
-  <img src = "Images/imagen1.jpg" >
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201_2.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201_2.jpg" >
+  </a>
 </p>
 
 
@@ -127,7 +129,11 @@ Este análisis detallado proporciona una visión profunda del crecimiento en los
 como las fluctuaciones trimestrales. La duplicación en la cantidad de habitantes conectados subraya la evolución notoria en la adopción de servicios de Internet fijo. Para observar 
 con mayor detenimiento y precisar las áreas clave para nuestro enfoque estratégico por provincia, nos centraremos en la Distribución de Accesos a Internet en hogares por Provincia.
 
-# imagen 2
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen2.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen2.jpg" >
+  </a>
+</p>
 
 En nuestra exhaustiva revisión del acceso a Internet y luego de haber visto que alrededor del 70 % de los hogares ya possen acceso a internet, nos vamos a enfocar en las provincias con menos conectividad por lo que observaremos 
  Formosa, Chaco, Corrientes, Santiago del Estero y Catamarca, tratando de entender el crecimiento experimentado en los últimos ocho años. 
@@ -143,17 +149,21 @@ Al centrarnos en el crecimiento experimentado en el pasado reciente, nos posicio
 panorama de las telecomunicaciones
 
 
-# imagen3
-
-
-
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen3.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen3.jpg" >
+  </a>
+</p>
 ### Tipo de tecnologías:
 
 Se observa  a nivel nacional un crecimiento sostenido en el uso de tecnologías como Cablemódem  y Fibra Óptica,  
 especialmente debido a las velocidades significativamente altas que ofrecen.
 
-# Imagen 4
-
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%204.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%204.jpg" >
+  </a>
+</p>
 
 En particular, en el caso de la Fibra Óptica, se evidencia un aumento notable en la curva de crecimiento a partir del año 2019, lo cual se vincula estrechamente con los hallazgos analizados en la
 sección previa.
@@ -191,8 +201,11 @@ la predominancia de conexiones de alta velocidad es notable.
 Este análisis se enfoca en todas las tecnologías de telecounicaciones por provincia pero podemos observar la predominancia de Cablemódem, representadas en marrón, y Fibra Óptica, identificadas en verde.
 
 
-
-# Imagen 5
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen5.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen5.jpg" >
+  </a>
+</p>
 
 En las provincias con una mayor adopción de servicios de conectividad, se observa un claro dominio de las conexiones de alta velocidad, siendo Cablemódem y Fibra Óptica las protagonistas. 
 La representación gráfica de estas tecnologías en naranja y verde, respectivamente, refleja el panorama dinámico y en constante evolución de la infraestructura de telecomunicaciones.
@@ -214,8 +227,11 @@ especialmente a través de tecnologías como la Fibra Óptica, demuestra un camb
 
 El siguiente gráfico nos revela patrones significativos en los ingresos derivados de los servicios de Internet fijo, TV por suscripción, TV satelital y telefonía fija a lo largo del periodo estudiado.
 
-# Imagen 6
-
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%206.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%206.jpg" >
+  </a>
+</p>
 Hasta el año 2021, la telefonía fija experimentó un crecimiento notable, indicando posiblemente una demanda continua de servicios de comunicación tradicionales. Este fenómeno podría estar vinculado 
 al acceso generalizado a Internet, ya que, en una primera instancia, las contrataciones de servicios de Internet fijo solían acompañarse de la telefonía fija.
 
@@ -251,9 +267,13 @@ Esta estructura por fases nos proporciona una visión más clara y detallada del
 
 Si querés obtener más información sobre los servicios de Internet en Argentina, aquí dejo algunos recursos adicionales que pueden ser de utilidad:
 
-Ente Nacional de Comunicaciones (ENACOM): Sitio web oficial del organismo regulador de las comunicaciones en Argentina, donde se puede encontrar información actualizada sobre servicios de Internet y telecomunicaciones en el país. (FUENTE utilizada para este INFORME)
+[Ente Nacional de Comunicaciones (ENACOM)](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/): Sitio web oficial del organismo regulador de las comunicaciones en Argentina, donde se puede encontrar información actualizada sobre servicios de Internet y telecomunicaciones en el país. (FUENTE utilizada para este INFORME)
 
-Speedtest Argentina: Información sobre las velocidades de conexión promedio en Argentina según Speedtest.
+[Telecomunicaciones y Conectividad Argentina](https://www.argentina.gob.ar/jefatura/innovacion-publica/telecomunicaciones-y-conectividad):: Sitio web oficial de la jefatura de gabinete de ministros, seccion Innovacion publica.
 
-OpenSignal: Plataforma que proporciona información detallada sobre la calidad de la cobertura móvil en diferentes áreas geográficas.
+[Telefonía móvil e Internet en Argentina](https://www.datosmundial.com/america/argentina/telecomunicacion.php) Datos Mundiales.
+
+[Speedtest Argentina](https://www.speedtest.net/global-index/argentina): Información sobre las velocidades de conexión promedio en Argentina según Speedtest.
+
+
 
