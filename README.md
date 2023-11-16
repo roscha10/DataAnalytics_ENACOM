@@ -22,28 +22,19 @@
 ## **Introducción**</h2>
 
 
-Historia de ARConecta Analytics: Transformando Datos en Conexiones Significativas
+Como Analista de Datos en DatAnalytics Solutions, fuimos contactados para un emocionante proyecto por encargo de una destacada empresa proveedora de servicios de telecomunicaciones en Argentina. La misión es clara: sumergirnos en las complejidades del sector a nivel nacional y entender a fondo cómo se comporta en el contexto actual.
 
-En el vibrante escenario de la tecnología y las telecomunicaciones, nace ARConecta Analytics en el año 2017, con la visión clara de convertirse en líder en el análisis de datos y machine learning en Argentina. 
-Esta empresa innovadora, cuya sede principal se encuentra en Buenos Aires, se embarcó en la misión de transformar la manera en que las empresas de telecomunicaciones abordan los desafíos 
-y oportunidades del mercado.
+En un mundo donde la conectividad es esencial, esta empresa no solo proporciona acceso a Internet, sino que también ofrece una gama de servicios de telecomunicaciones. Desde telefonía fija hasta televisión por suscripción, cada servicio desempeña un papel vital en la vida diaria de los usuarios.
 
-Mi entrada a ARConecta Analytics, como Analista de Datos en el año 2021, marcó el comienzo de una emocionante travesía en el mundo de la analítica avanzada y la toma de decisiones basada en datos. 
-Nuestra empresa, ahora con un equipo multidisciplinario de expertos en ciencia de datos, se ha posicionado como un socio estratégico para diversas industrias, y en especial, para empresas proveedoras de servicios de telecomunicaciones.
+Nuestra tarea es estudiar la evolución, comportamiento y situación actual de los servicios de telecomunicaciones a nivel nacional. Enfocando el análisis en el mercado de internet.
 
-Recientemente, hemos tenido el privilegio de trabajar en un proyecto fundamental con una de las principales empresas de telecomunicaciones en Argentina. Nos encomendaron la tarea de realizar un análisis
-exhaustivo del acceso a Internet en todo el país, con el objetivo de entender a fondo la dinámica del mercado y proponer estrategias para mejorar la conectividad.
+Con ocho años de experiencia, DataAnalytica Solutions ha estado a la vanguardia de transformar datos en conocimientos prácticos. Este proyecto es otra oportunidad emocionante para aplicar nuestras habilidades analíticas y contribuir al crecimiento y mejora del sector de las telecomunicaciones en el país.
 
-El proyecto comenzó con la extracción meticulosa de datos a través de la API del ENACOM, el ente nacional encargado de las comunicaciones. Aplicamos procesos ETL para limpiar y
-preparar los conjuntos de datos, asegurando la calidad y confiabilidad de la información. Luego, nos sumergimos en un análisis exploratorio, desentrañando patrones, identificando tendencias 
-y delineando áreas de oportunidad.
+El proyecto comenzó con la extracción meticulosa de datos a través de la API del ENACOM, el ente nacional encargado de las comunicaciones. Aplicamos procesos ETL para limpiar y preparar los conjuntos de datos, asegurando la calidad y confiabilidad de la información. Luego, nos sumergimos en un análisis exploratorio, desentrañando patrones, identificando tendencias y delineando áreas de oportunidad.
 
-Como parte de nuestro compromiso con la excelencia, proponemos indicadores clave de rendimiento (KPI) que permitirán a la empresa evaluar y mejorar su desempeño en el dinámico mercado 
-de las telecomunicaciones. Estos KPIs abarcan desde la penetración de mercado y la calidad del servicio, en términos de velocidad y tecnologías en uso, hasta  información sobre la proyección de crecimiento de los ingresos 
-y cómo se compara el sector de acceso a internet con las otras áreas de telecomunicaciones.  
+Como parte de nuestro compromiso con la excelencia, proponemos indicadores clave de rendimiento (KPI) que permitirán a la empresa evaluar y mejorar su desempeño en el dinámico mercado de las telecomunicaciones. Estos KPIs abarcan desde la penetración de mercado hasta la calidad del servicio, considerando aspectos como velocidad, tecnologías en uso y proyecciones de crecimiento de los ingresos. También proporcionamos análisis comparativos entre el sector de Internet y otras áreas de telecomunicaciones, así como avances trimestrales en el acceso a Internet. 
 
-Nuestro enfoque va más allá de los números; buscamos proporcionar información valiosa que se traduzca en decisiones estratégicas y acciones concretas. La calidad del servicio es una prioridad, 
-y nuestra propuesta incluye un análisis detallado de la experiencia del usuario, evaluando no solo la velocidad de conexión, sino también la satisfacción del cliente.
+Hemos estructurado el proyecto en 4 fases fundamentales, y su desarrollo se presenta de la siguiente manera:
 
 ---
 
@@ -251,7 +242,9 @@ seguidos por TV por suscripción.
 
 ## Fase 4: Desarrollo de un Dashboard Interactivo
 
-En esta última fase, creamos un dashboard interactivo diseñado para explorar opciones en los datasets y en donde definimos lo KPIs: 
+En esta fase culminante, hemos materializado un dashboard interactivo que no solo cumple con los requisitos esenciales sino que también incorpora desafíos adicionales para elevar nuestro proyecto a un nivel Junior Advanced. Este último acto es una demostración de habilidades avanzadas y un enfoque integral para lograr un portfolio completo y competitivo.
+
+Nuestro proceso comenzó con la creación de un Jupyter Notebook para organizar la data que utilizariamos de manera óptima, incluyendo la asignación de identificadores a las provincias. Posteriormente, establecimos una base de datos en un motor SQL, donde ingresamos los datasets procesado para utilizarlos como fuente de datos en nuestro dashboard en Power BI. Ejecutamos scripts de Python directamente en MySQL Workbench y finalmente creamos un dashboard interactivo diseñado para explorar opciones en los datasets y en donde definimos lo KPIs: 
 
   - Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. 
   - Acceso a Internet Fijo.
