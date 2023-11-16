@@ -1,4 +1,4 @@
-Año,Trimestre,ADSL,Cablemodem,Fibra óptica,Wireless,Otros,Total,ID
+Año,Trimestre,ADSL,Cablemodem,Fibra óptica,Wireless,Otros,Total,id_provincia
 2022,4,325908.0,2767247.0,1499149.0,129910.0,72451.0,4794665.0,1
 2022,4,138753.0,1238196.0,138548.0,4603.0,31826.0,1551926.0,2
 2022,4,8952.0,10998.0,47337.0,1379.0,2243.0,70909.0,3
