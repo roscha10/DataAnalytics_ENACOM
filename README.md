@@ -246,10 +246,17 @@ En esta fase culminante, hemos materializado un dashboard interactivo que no sol
 
 Nuestro proceso comenzó con la creación de un Jupyter Notebook para organizar la data que utilizariamos de manera óptima, incluyendo la asignación de identificadores a las provincias(detalle:[Notebook](Preparacion_SQL.ipynb)).  Posteriormente, establecimos una base de datos en un motor SQL, donde ingresamos los datasets procesado para utilizarlos como fuente de datos en nuestro dashboard en Power BI. Ejecutamos scripts de Python directamente en MySQL Workbench(detalle:[SQL](SQL/ENACOM.sql))  y finalmente creamos un dashboard interactivo diseñado para explorar opciones en los datasets y en donde definimos lo KPIs: 
 
-  - Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. 
-  - Acceso a Internet Fijo.
-  - Tecnologías.
-  - Ingresos por la operación del servicio de telecomunicaciones.
+**Penetración de Internet por Provincia:**
+
+    - Definición: Porcentaje de hogares con acceso a Internet en relación con el total de hogares en cada provincia.
+    - Fórmula: (Hogares con Internet / Total de Hogares) * 100
+    - Objetivo: umentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
+          
+**Crecimiento de Ingresos por Tecnología:**
+
+    - Definición: Tasa de cambio porcentual en los ingresos generados por cada tecnología en comparación con el trimestre anterior o el año anterior.
+    - Fórmula: ((Ingresos actuales - Ingresos anteriores) / Ingresos anteriores) * 100
+    - Objetivo: Identificar tecnologías que están experimentando un crecimiento significativo y enfocar los esfuerzos en su expansión.
 
 Dataset que utilizamos en **POWER BI** : [Data_SQL](datasets_SQL)
 **Tecnologías clave:** Power BI, Lenguaje DAX, Integración de datos a Power BI mediante Python
