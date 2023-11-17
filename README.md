@@ -254,7 +254,7 @@ Nuestro proceso comenzó con la creación de un Jupyter Notebook para organizar 
           
 **Crecimiento de Ingresos por Tecnología:**
 
-    - Definición: Tasa de cambio porcentual en los ingresos generados por cada tecnología en comparación con el trimestre anterior o el año anterior.
+    - Definición: Tasa de cambio porcentual en los ingresos generados por cada tecnología en comparación con el año anterior.
     - Fórmula: ((Ingresos actuales - Ingresos anteriores) / Ingresos anteriores) * 100
     - Objetivo: Identificar tecnologías que están experimentando un crecimiento significativo y enfocar los esfuerzos en su expansión.
 
