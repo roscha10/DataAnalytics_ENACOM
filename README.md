@@ -249,7 +249,7 @@ Nuestro proceso comenzó con la creación de un Jupyter Notebook para organizar 
 **Penetración de Internet por Provincia:**
 
     - Definición: Porcentaje de hogares con acceso a Internet en relación con el total de hogares en cada provincia.
-    - Fórmula: (Hogares con Internet / Total de Hogares) * 100
+    - Fórmula:  ((Nuevo acceso - Acceso actual) / Acceso actual) * 100
     - Objetivo: umentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
           
 **Crecimiento de Ingresos por Tecnología:**
