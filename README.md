@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib" alt="Matplotlib">
   <img src="https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn" alt="Seaborn">
   <img src="https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn" alt="Scikitlearn">
-  <img src="https://camo.githubusercontent.com/520feca36c380051805100a73d5b396d4a27490fb5dacbc9e87c03e2ca4fd7f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d3333333333333f7374796c653d666c6174266c6f676f3d6a757079746572" alt="Jupyter">
+ 
 </p>
 
 
