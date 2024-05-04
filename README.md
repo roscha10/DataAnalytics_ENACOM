@@ -1,6 +1,10 @@
 
 <p align="center">  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" alt="Markdown">
+  <img src="https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi" alt="PowerBi">
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter" alt="Jupyter">
   <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas">
   <img src="https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy" alt="Numpy">
   <img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib" alt="Matplotlib">
