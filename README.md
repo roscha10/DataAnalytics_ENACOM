@@ -1,5 +1,6 @@
 
 <p align="center">
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas">
   <img src="https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy" alt="Numpy">
   <img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib" alt="Matplotlib">
