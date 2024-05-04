@@ -1,6 +1,4 @@
 
-   ![download](https://github.com/roscha10/DataAnalytics_ENACOM/assets/130667173/0768628a-57c8-45cf-8e3b-8691f93bc926)
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas">
   <img src="https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy" alt="Numpy">
